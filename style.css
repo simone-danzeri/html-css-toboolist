@@ -55,6 +55,10 @@ section{
     margin-left: 50px;
     padding-top: 25px;
 }
+.to-does{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
 h2{
     font-weight: bold;
 }
@@ -89,4 +93,13 @@ h2{
 }
 .tag-blue{
     background-color: rgb(44, 148, 233);
+}
+.tag-purple{
+    background-color: purple;
+}
+.tag-green{
+    background-color: rgb(51, 122, 89);
+}
+.tag-orange{
+    background-color: orange;
 }
