@@ -103,3 +103,9 @@ h2{
 .tag-orange{
     background-color: orange;
 }
+.tag-pink{
+    background-color: rgb(168, 21, 102);
+}
+.tag-lightgreen{
+    background-color: rgb(146, 216, 33);
+}
