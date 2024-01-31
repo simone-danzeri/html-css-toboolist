@@ -32,7 +32,7 @@ nav{
     padding-top: 15px;
     padding-bottom: 10px;
 }
-.bt{
+.button-add-task{
     margin-left: 50px;
     border-radius: 5px;
     padding: 5px;
@@ -41,7 +41,7 @@ nav{
     border-color: rgb(44, 148, 233);
     border-width: 1px;
 }
-.bt2{
+.button-add-task2{
     border-radius: 5px;
     padding: 5px;
     background-color: #ffffff;
